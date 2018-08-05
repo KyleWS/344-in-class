@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1510095105917" clover="3.2.0">
+  <project timestamp="1510095105917" name="All files">
+    <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="7" elements="20" coveredelements="18" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1">
+      <file name="taskstore.js" path="/Users/iguest/go/src/github.com/info344-a17/info344-in-class/nodedb/taskstore.js">
+        <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="7"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
